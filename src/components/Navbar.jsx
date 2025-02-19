@@ -21,7 +21,7 @@ function Navbar() {
               >
                 {index === 1 && (
                   <span
-                    style={{ boxShadow: "0 0 0.45em #00ff19" }}
+                    style={{ boxShadow: "0 0 0.45em #00ff19" }}  
                     className="inline-block w-1 h-1 rounded-full bg-green-500"
                   ></span>
                 )}
